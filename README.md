@@ -17,11 +17,3 @@
 ##### Configuration
 ##### Migrations
 ##### Models
-
-## Command line & .NET Core CLI
-##### npm install
-##### dotnet build
-##### Visual Studio 2019
-##### npm install
-##### Build the solution
-##### Running
